@@ -72,7 +72,7 @@ fun sestej a b
   vrni a + b
 konec
 ```
-Klic funkcije:
+Klic funkcije in uporaba vrednosti v istoimenski spremenljivki:
 ```plaintext
 sestej 3 5
 pisi sestej
@@ -85,7 +85,7 @@ pisi sestej
    ```
 2. Zagon prevajalnika:
    ```sh
-   ./prevajalnik koda.txt
+   ./prevajalnik koda.k
    ```
 3. Izvajanje prevedene `assembly` kode (po prevodu v `out.asm`):
    ```sh
