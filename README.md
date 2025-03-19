@@ -91,7 +91,3 @@ pisi sestej
    ```sh
    nasm -f elf64 out.asm && ld -o out out.o && ./out
    ```
-
-## Licenca
-Ta projekt je odprtokoden in na voljo za uporabo v izobraževalne namene.
-
